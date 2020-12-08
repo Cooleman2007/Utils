@@ -38,3 +38,16 @@
   font-style: italic;
   src: url(Lato-Italic.ttf);
 }
+/* BOLD */
+@font-face {
+  font-family: 'Lato';
+  font-weight: 700;
+  src: url(Lato-Bold.ttf);
+}
+/* BOLD ITALIC */
+@font-face {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-style: italic;
+  src: url(Lato-Bold.ttf);
+}
