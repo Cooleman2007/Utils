@@ -31,3 +31,10 @@
   font-weight: 400;
   src: url(Lato-Regular.ttf);
 }
+/* REGULAR ITALIC */
+@font-face {
+  font-family: 'Lato';
+  font-weight: 400;
+  font-style: italic;
+  src: url(Lato-Italic.ttf);
+}
