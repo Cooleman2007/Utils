@@ -9,6 +9,7 @@
 @font-face {
   font-family: 'Lato';
   font-weight: 100;
+  font-style: italic;
   src: url(Lato-ThinItalic.ttf);
 }
 /* LIGHT */
@@ -16,4 +17,11 @@
   font-family: 'Lato';
   font-weight: 200;
   src: url(Lato-Light.ttf);
+}
+/* LIGHT ITALIC */
+@font-face {
+  font-family: 'Lato';
+  font-weight: 200;
+  font-style: italic;
+  src: url(Lato-LightItalic.ttf);
 }
