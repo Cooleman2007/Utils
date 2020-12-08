@@ -5,3 +5,15 @@
   font-weight: 100;
   src: url(Lato-Thin.ttf)
 }
+/* THIN ITALIC */
+@font-face {
+  font-family: 'Lato';
+  font-weight: 100;
+  src: url(Lato-ThinItalic.ttf);
+}
+/* LIGHT */
+@font-face {
+  font-family: 'Lato';
+  font-weight: 200;
+  src: url(Lato-Light.ttf);
+}
